@@ -9,5 +9,6 @@
 6. Saito Kazuyoahi
 7. Kenshi Yonezu
 8. Superfly
-9. TWICE
-10. ARASHI
+9. IU
+10. TWICE
+11. ARASHI
