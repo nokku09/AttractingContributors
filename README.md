@@ -12,3 +12,4 @@
 - Genshin Impact
 - Ace Combat
 - fast food similator
+- Girls' Frontline
