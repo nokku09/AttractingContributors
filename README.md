@@ -14,3 +14,4 @@
 11. ARASHI
 12. Number_i
 13. SEKAINOOWARI
+14. Nano
