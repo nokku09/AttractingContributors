@@ -15,5 +15,5 @@
 - Mission: Impossible
 - TOY Story 3
 - Star Trek
-- your name\
+- your name
 - Love Live! Sunshine!!: The School Idol Movie Over the Rainbow
