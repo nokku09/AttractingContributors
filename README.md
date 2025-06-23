@@ -10,3 +10,5 @@
 7. Kenshi Yonezu
 8. Superfly
 9. IU
+10. TWICE
+11. ARASHI
