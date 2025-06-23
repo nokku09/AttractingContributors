@@ -13,4 +13,5 @@
 - football
 - baseball
 - table tennis
+- Ekiden
 - soccer
