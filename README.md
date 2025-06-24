@@ -13,3 +13,4 @@
 - Ace Combat
 - fast food similator
 - Girls' Frontline
+- Monster Hunter
