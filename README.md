@@ -17,3 +17,4 @@
 - Star Trek
 - your name
 - Love Live! Sunshine!!: The School Idol Movie Over the Rainbow
+- Detective Conan: Black Iron Submarine
