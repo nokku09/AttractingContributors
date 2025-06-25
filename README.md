@@ -10,3 +10,6 @@
 - tofu
 - wakame
 - mushroom
+- egg
+- wakame
+- pineapple
