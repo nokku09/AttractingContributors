@@ -9,6 +9,7 @@
 - nasubi
 - tofu
 - wakame
+- mushroom
 - egg
 - wakame
 - pineapple
