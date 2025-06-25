@@ -9,5 +9,6 @@
 - nasubi
 - tofu
 - wakame
+- egg
 - wakame
 - pineapple
