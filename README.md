@@ -13,3 +13,4 @@
 - egg
 - wakame
 - pineapple
+- deep fried tofu
