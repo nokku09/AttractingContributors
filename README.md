@@ -15,3 +15,5 @@
 - table tennis
 - Ekiden
 - soccer
+- tennis
+- sepak takraw
