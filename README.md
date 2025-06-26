@@ -10,3 +10,4 @@
 - cake
 - Komeda coffee
 - Starbucks Coffee (Kitaikoma)
+- 長崎堂
