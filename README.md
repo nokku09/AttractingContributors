@@ -9,3 +9,4 @@
 - Maeda's Donut in Nara
 - cake
 - Komeda coffee
+- Starbucks Coffee (Kitaikoma)
