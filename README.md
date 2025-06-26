@@ -13,4 +13,8 @@
 - egg
 - wakame
 - pineapple
+<<<<<<< patch-2
+- sijimi
+=======
 - deep fried tofu
+>>>>>>> main
