@@ -13,7 +13,10 @@
 - Black and gold (two-tone)
 - blonde hair
 - Reddish-brown
-
+- dark brown
+- black
+- Orange
+- rosybrown
 
 
 ### Good 
