@@ -13,6 +13,9 @@
 - Black and gold (two-tone)
 - blonde hair
 - black
+- Orange
+- rosybrown
+
 
 
 
