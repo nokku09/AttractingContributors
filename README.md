@@ -12,11 +12,10 @@
 - Blue gray
 - Black and gold (two-tone)
 - blonde hair
+- dark brown
 - black
 - Orange
 - rosybrown
-
-
 
 
 ### Good 
