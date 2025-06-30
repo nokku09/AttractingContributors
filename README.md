@@ -16,3 +16,4 @@
 13. SEKAINOOWARI
 14. Nano
 15. FripSide
+16. NovelBright
