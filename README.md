@@ -15,6 +15,7 @@
 - table tennis
 - Ekiden
 - soccer
+- shooting
 - tennis
 - sepak takraw
 - Football
