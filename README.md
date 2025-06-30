@@ -16,3 +16,10 @@
 - Ekiden
 - soccer
 - shooting
+- tennis
+- sepak takraw
+- Football
+- basketball
+- tennis
+- banana boat
+- Athletics
