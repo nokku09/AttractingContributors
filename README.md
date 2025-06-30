@@ -15,3 +15,4 @@
 - Girls' Frontline
 - Monster Hunter
 - Splatoon
+- Street Fighter 6
