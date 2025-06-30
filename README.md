@@ -23,3 +23,4 @@
 - tennis
 - banana boat
 - Athletics
+- Karate
