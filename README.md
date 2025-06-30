@@ -11,3 +11,4 @@
 - Komeda coffee
 - Starbucks Coffee (Kitaikoma)
 - 長崎堂
+- 北生駒駅のケーキ屋さん
