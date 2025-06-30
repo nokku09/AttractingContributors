@@ -17,3 +17,4 @@
 14. Nano
 15. FripSide
 16. NovelBright
+17. Yuzu
