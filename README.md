@@ -16,3 +16,6 @@
 - Ekiden
 - soccer
 - basketball
+- tennis
+- banana boat
+- Athletics
