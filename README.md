@@ -9,3 +9,4 @@
 - Monster Hunter
 - super mario!
 - Fantasy Life
+- Pocket Monster Sun and Moon
