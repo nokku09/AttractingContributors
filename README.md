@@ -15,5 +15,6 @@
 - table tennis
 - Ekiden
 - soccer
+- tennis
 - banana boat
 - Athletics
