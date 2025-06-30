@@ -9,6 +9,7 @@
 - Machu Picchu
 - New York City
 - Reykjavik
+- Ziro Valley, Arunachal Pradesh, India
 - Kamakura
 - Cairns
 - Hawaii
