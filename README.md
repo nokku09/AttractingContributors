@@ -14,3 +14,4 @@
 - fast food similator
 - Girls' Frontline
 - Monster Hunter
+- Street Fighter 6
