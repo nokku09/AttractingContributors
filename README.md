@@ -9,6 +9,7 @@
 - Machu Picchu
 - New York City
 - Reykjavik
+- Kamakura
 - Cairns
 - Hawaii
 - Nagoya
