@@ -10,3 +10,4 @@
 - super mario!
 - Fantasy Life
 - Pocket Monster Sun and Moon
+- The Legend of Zelda: Skyward Sword
