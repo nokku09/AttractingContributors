@@ -15,3 +15,4 @@
 - pineapple
 - sijimi
 - deep fried tofu
+- eggplant
