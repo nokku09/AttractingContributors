@@ -8,6 +8,7 @@
 - GOD EATER 2 RAGE BURST
 - Monster Hunter
 - Fantasy Life
+- The Legend of Zelda: Majora's Mask
 - The Legend of Zelda: Skyward Sword
 - Puyo Puyo
 - Word of Warcraft
